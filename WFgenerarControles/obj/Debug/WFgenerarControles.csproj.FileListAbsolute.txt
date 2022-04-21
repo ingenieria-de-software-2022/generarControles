@@ -1,0 +1,11 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\bin\Debug\WFgenerarControles.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\bin\Debug\WFgenerarControles.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\bin\Debug\WFgenerarControles.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFgenerarControles\WFgenerarControles\obj\Debug\WFgenerarControles.Form1.resources
